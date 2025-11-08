@@ -1,0 +1,14 @@
+:root{
+    --hf: #EBF5EE;
+    --bg: #;
+    --head: #283044;
+    --nav: #78A1BB;
+    --txt: #3D1800;
+    --btn: #F2A365;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
